@@ -1,8 +1,9 @@
+# installasi Git
 1. Setelah download Git, double click pada file yang di-download. Akan dimunculkan lisensi. Klik Next untuk lanjut.
 
 ![01](screenCloud/1.png)
 
-Setelah itu, pilih lokasi instalasi. Secara default akan terisi C:\Program Files\Git. Ganti lokasi jika memang anda menginginkan lokasi lain, klik Next
+2. Setelah itu, pilih lokasi instalasi. Secara default akan terisi C:\Program Files\Git. Ganti lokasi jika memang anda menginginkan lokasi lain, klik Next
 Pilih komponen. Tidak perlu diubah-ubah, sesuai dengan default saja. Klik pada Next.
 ![02](screenCloud/2.png)
 Mengisi shortcut untuk menu Start. Gunakan default (Git), ganti jika ingin mengganti - misalnya Git VCS.
