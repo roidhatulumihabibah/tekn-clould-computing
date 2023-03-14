@@ -55,3 +55,11 @@ Bash adalah shell di Linux. Dengan menggunakan bash di Windows, pekerjaan di com
 14.Tampilan jika akan menggunakan "Git Bash"
 
 ![20](screenCloud/20.png)
+
+15.Tampilan jika akan menggunakan "Git GUI"
+
+![21](screenCloud/21.png)
+
+16.Untuk mencoba dari command prompt, masuk ke command prompt, setelah itu eksekusi "git --version" untuk melihat apakah sudah terinstall atau belum. Jika sudah terinstall dengan benar, makan akan muncul hasil berikut:
+
+![22](screenCloud/22.png)
