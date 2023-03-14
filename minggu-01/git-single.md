@@ -42,11 +42,11 @@ Bash adalah shell di Linux. Dengan menggunakan bash di Windows, pekerjaan di com
 
 11.setelah itu proses instalasi akan dilakukan.
 
-![11](minggu-01/screenCloud/11.png)
+![11](minggu-01/screenCloud/17.png)
 
 12.Jika selesai akan muncul dialog pemberitahuan. Klik pada Finish.
 
-![12](minggu-01/screenCloud/12.png)
+![12](minggu-01/screenCloud/18.png)
 
 13.Untuk menjalankan, dari Start menu, ketikkan "Git", akan muncul beberapa pilihan. Pilih "Git Bash" atau "Git GUI".
 
