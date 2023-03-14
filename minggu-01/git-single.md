@@ -54,4 +54,3 @@ Bash adalah shell di Linux. Dengan menggunakan bash di Windows, pekerjaan di com
 
 14.Tampilan jika akan menggunakan "Git Bash"
 
-
