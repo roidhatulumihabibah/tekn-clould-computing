@@ -1,3 +1,5 @@
+Latihan no 1
+
 What is the difference between IaaS, SaaS, and Paas?
 
 In a nutshell, IaaS provides access to resources such as virtual machines and virtual storage,PaaS provides execution environments,
@@ -36,3 +38,9 @@ Which programming language?
 Building a product for the cloud means building a product with a modern programming language.
 esides personal abilities and skills, the choice of your programming language will be influenced by the possibilities of each language.
 There are various (modern) programming languages out there making it a hard time to choose the right one.
+
+Latihan no 2
+
+Layanan SaaS: Trello
+
+Layanan SaaS: Slack
