@@ -1,0 +1,28 @@
+{
+	"name": "tekn-clould-computing",
+	"version": "1.0.0",
+	"description": "Expressjs Hello World example to provide faster start deploying on Cyclic platform and some project directory for learn.",
+	"main": "server.js",
+	"scripts": {
+		"serve": "nodemon --watch . server.js",
+		"start": "node server.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/roidhatulumihabibah/tekn-clould-computing.git"
+	},
+	"author": "Roidhatul Umi Habibah",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/roidhatulumihabibah/tekn-clould-computing/issues"
+	},
+	"homepage": "https://github.com/roidhatulumihabibah/tekn-clould-computing#readme",
+	"dependencies": {
+		"express": "^4.17.1"
+	  },
+	  "devDependencies": {
+		"nodemon": "^2.0.12"
+	  }
+	
+}
